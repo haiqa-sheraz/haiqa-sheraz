@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haiqa Sheraz
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Analytics, and Data Science
-- 🌱 I’m currently doing Bachelors in Artificial Intelligence
+- 🌱 I’ve done Bachelors in Artificial Intelligence
 - 💞️ I’m looking to collaborate on various projects related to my field
 - 📫 Reach me through LinkedIn on https://www.linkedin.com/in/haiqa-sheraz-alhassan-630296204/
 
